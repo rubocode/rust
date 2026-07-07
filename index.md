@@ -2,4 +2,4 @@
 
 ![banner](/rust/photos/banner.png)
 
-## The Rust Programming Language
+## The Essential Difference
