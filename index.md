@@ -1,5 +1,5 @@
 > [home](/systems)
 
-![banner](/rust/photots/banner.png)
+![banner](/rust/photos/banner.png)
 
 ## The Rust Programming Language
